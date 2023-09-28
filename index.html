@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skilline Landing Page</title>
+    <!-- Tailwind -->
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Alpine -->
+    <script type="module" src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine-ie11.min.js" defer></script>
+    <!-- AOS -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <!-- Custom style -->
+    <link rel="stylesheet" href="css/skilline.css" />
+    <!-- Poppins font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+
+
+        /* Media query for smaller screens */
+        @media (max-width: 768px) {
+            .card-container {
+                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            }
+        }
+        
+          /* Style for the card container */
+          .card-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* Responsive grid layout */
+            gap: 20px;
+            padding: 20px;
+          }
+        
+          /* Add additional CSS styling as needed */
+        </style>
+
+        <link rel="stylesheet" href="style.css">
+        
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body class="antialiased">
+    <!-- navbar -->
+    <div x-data="{ open: false }" class="w-full text-gray-700 bg-cream">
+        <div class="flex flex-col max-w-screen-xl px-8 mx-auto md:items-center md:justify-between md:flex-row">
+            <div class="flex flex-row items-center justify-between py-6">
+                <div class="relative md:mt-4 pl-10">
+                    <div class="nav-side"><img src="images/projectlogo.jpeg" alt="click here">
+                        <h2><span class="first">C</span>ode <span class="first">L</span>egalist</h2>
+                    </div>
+                    <svg class="h-11 z-40 absolute -top-2 -left-3" viewBox="0 0 79 79" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        
+                    </svg>
+                </div>
+                <button class="rounded-lg md:hidden focus:outline-none focus:shadow-outline" @click="open = !open">
+                    <svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
+                        <path x-show="!open" fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM9 15a1 1 0 011-1h6a1 1 0 110 2h-6a1 1 0 01-1-1z" clip-rule="evenodd"></path>
+                        <path x-show="open" fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+            <nav :class="{ 'transform md:transform-none': !open, 'h-full': open }" class="h-0 md:h-auto flex flex-col flex-grow md:items-center pb-4 md:pb-0 md:flex md:justify-end md:flex-row origin-top duration-300 scale-y-0">
+                <a class="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline" href="#">Home</a>
+                <a class="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline" href="#">KYR</a>
+                <a class="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline" href="#">Casepedia</a>
+                <a class="px-4 py-2 mt-2 text-sm bg-transparent rounded-lg md:mt-8 md:ml-4 hover:text-gray-900 focus:outline-none focus:shadow-outline" href="#">Legal aid provider</a>
+
+            </nav>
+        </div>
+    </div>
+    <div class="bg-cream">
+        <div class="max-w-screen-xl px-8 mx-auto flex flex-col lg:flex-row items-start">
+            <!--Left Col-->
+            <div class="flex flex-col w-full lg:w-6/12 justify-center lg:pt-24 items-start text-center lg:text-left mb-5 md:mb-0">
+                <h1 data-aos="fade-right" data-aos-once="true" class="my-4 text-5xl font-bold leading-tight text-darken">
+                    <span class="text-yellow-500">Legal Stories:</span> Stories that shaped the Law
+                </h1>
+                <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="leading-normal text-2xl mb-8">Landmark legal cases and historical events that have left an indelible mark on the evolution of law."</p>
+                <div data-aos="fade-up" data-aos-once="true" data-aos-delay="700" class="w-full md:flex items-center justify-center lg:justify-start md:space-x-5">
+                </div>
+            </div>
+            <!--Right Col-->
+            <div class="w-full lg:w-6/12 lg:-mt-10 relative" id="girl">
+                <img data-aos="fade-up" data-aos-once="true" class="w-10/12 mx-auto 2xl:-mb-20" src="img/last.png" />
+            </div>
+        </div>
+        <div class="text-white -mt-14 sm:-mt-24 lg:-mt-36 z-40 relative">
+            <svg class="xl:h-40 xl:w-full" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+				<path d="M600,112.77C268.63,112.77,0,65.52,0,7.23V120H1200V7.23C1200,65.52,931.37,112.77,600,112.77Z" fill="currentColor"></path>
+			</svg>
+            <div class="bg-white w-full h-20 -mt-px"></div>
+        </div>
+    </div>
+
+    <!-- container -->
+    <div class="container px-4 lg:px-8 mx-auto max-w-screen-xl text-gray-700 overflow-x-hidden">
+
+
+
+        <!-- All-In-One Cloud Software. -->
+        <div data-aos="flip-up" class="max-w-xl mx-auto text-center mt-24">
+            <h1 class="font-bold text-darken my-3 text-2xl">"Legal Case Chronicles: <span class="text-yellow-500"> Insights into Real-Life Legal Challenges"</span></h1>
+            <p class="leading-relaxed text-gray-500">Legal cases require in-depth study and analysis for comprehensive understanding.</p>
+        </div>
+
+        <div class="chat-container">
+            <div class="chat-box">
+                <div class="chat-header">Chatbot</div>
+                <div class="chat-messages" id="chat-messages"></div>
+                <input type="text" id="user-input" placeholder="Type your answer...">
+                <button id="submit-button">Submit</button>
+            </div>
+        </div>
+    
+        <div class="card-container" id="cardContainer">
+            <!-- Cards will be added here using JavaScript -->
+        </div>
+
+
+
+
+
+        <!-- AOS init -->
+        <script src="script.js"></script>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <script>
+            AOS.init();
+        </script>
+</body>
+
+</html>
+
+</html>
