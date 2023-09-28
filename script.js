@@ -125,7 +125,7 @@ const data = [
         "keywords":[
             "forgery","section 465","falsification"
         ],
-        "image":"./images/2.jpg",
+        "image":"./images/2.jpeg",
         "link": ""
     },
     {
@@ -139,7 +139,7 @@ const data = [
         "keywords":[
             "forgery","section 463"
         ],
-        "image":"./images/3.jpg",
+        "image":"./images/3.jpeg",
         "link": ""
     },
     {
@@ -153,7 +153,7 @@ const data = [
         "keywords":[
             "forgery","section 464"
         ],
-        "image":"./images/4.jpg",
+        "image":"./images/4.jpeg",
         "link": ""
     },
     {
@@ -167,7 +167,7 @@ const data = [
         "keywords":[
             "offence","marriage offence"
         ],
-        "image":"./images/5.jpg",
+        "image":"./images/5.jpeg",
         "link": ""
     },
     {
@@ -181,7 +181,7 @@ const data = [
         "keywords":[
             "marriage offence","section 494"
         ],
-        "image":"./images/6.jpg",
+        "image":"./images/6.jpeg",
         "link": ""
     },
     {
@@ -195,7 +195,7 @@ const data = [
         "keywords":[
             "marriage offence","section 495"
         ],
-        "image":"./images/7.jpg",
+        "image":"./images/7.jpeg",
         "link": ""
     },
     {
@@ -209,7 +209,7 @@ const data = [
         "keywords":[
             "marriage offence","section 496"
         ],
-        "image":"./images/8.jpg",
+        "image":"./images/8.jpeg",
         "link": ""
     },
     {
@@ -223,7 +223,7 @@ const data = [
         "keywords":[
             "marriage offence","adultery","section 497"
         ],
-        "image":"./images/9.jpg",
+        "image":"./images/9.jpeg",
         "link": ""
     },
     {
@@ -237,7 +237,7 @@ const data = [
         "keywords":[
             "marriage offence","section 498"
         ],
-        "image":"./images/10.jpg",
+        "image":"./images/10.jpeg",
         "link": ""
     },
     {
@@ -251,7 +251,7 @@ const data = [
         "keywords":[
             "marriage offence","section 498a"
         ],
-        "image":"./images/11.jpg",
+        "image":"./images/11.jpeg",
         "link": ""
     },
     {
@@ -265,7 +265,7 @@ const data = [
         "keywords":[
             "cheating","section 415"
         ],
-        "image":"./images/12.jpg",
+        "image":"./images/12.jpeg",
         "link": ""
     },
     {
@@ -279,7 +279,7 @@ const data = [
         "keywords":[
             "cheating", "section 416"
         ],
-        "image":"./images/13.jpg",
+        "image":"./images/13.jpeg",
         "link": ""
     },
     {
@@ -294,7 +294,7 @@ const data = [
             "cheating","punishment for cheating"
         ]
         ,
-        "image":"./images/14.jpg",
+        "image":"./images/14.jpeg",
         "link": ""
     },
     {
@@ -308,7 +308,7 @@ const data = [
         "keywords":[
             "cheating","section 418","cheating with knowledge"
         ],
-        "image":"./images/15.jpg",
+        "image":"./images/15.jpeg",
         "link": ""
     },
     {
@@ -322,7 +322,7 @@ const data = [
         "keywords":[
             "cheating","punishment for cheating","section 419"
         ],
-        "image":"./images/16.jpg",
+        "image":"./images/16.jpeg",
         "link": ""
     },
     {
@@ -337,7 +337,7 @@ const data = [
         "keywords":[
             "cheating","punishment for cheating","section 420"
         ],
-        "image":"./images/17.jpg",
+        "image":"./images/17.jpeg",
         "link": ""
     },
     {
@@ -351,7 +351,7 @@ const data = [
         "keywords":[
             "criminal breach", "section 405"
         ],
-        "image":"./images/18.jpg",
+        "image":"./images/18.jpeg",
         "link": ""
     },
     {
@@ -365,7 +365,7 @@ const data = [
         "keywords":[
             "rape","sexual offence","women sexual cases","women rape ipc","section 375"
         ],
-        "image":"./images/19.jpg",
+        "image":"./images/19.jpeg",
         "link": ""
     },
     {
@@ -379,7 +379,7 @@ const data = [
         "keywords":[
             "rape","sexual offence","section 376"
         ],
-        "image":"./images/20.jpg",
+        "image":"./images/20.jpeg",
         "link": ""
     },
     {
@@ -393,7 +393,7 @@ const data = [
         "keywords":[
             "rape","sexual offence","section 377"
         ],
-        "image":"./images/21.jpg",
+        "image":"./images/21.jpeg",
         "link": ""
     },
     {
@@ -407,7 +407,7 @@ const data = [
         "keywords":[
            "criminal intimidation","section 503"
         ],
-        "image":"./images/22.jpg",
+        "image":"./images/22.jpeg",
         "link": ""
     },
     {
@@ -421,7 +421,7 @@ const data = [
         "keywords":[
            "criminal intimidation","punishment for criminal intimidation","section 506"
         ],
-        "image":"./images/23.jpg",
+        "image":"./images/23.jpeg",
         "link": ""
     },
     {
@@ -435,7 +435,7 @@ const data = [
         "keywords":[
            "criminal intimidation","section 507"
         ],
-        "image":"./images/24.jpg",
+        "image":"./images/24.jpeg",
         "link": ""
     },
     {
@@ -449,7 +449,7 @@ const data = [
         "keywords":[
            "hurt","section 319"
         ],
-        "image":"./images/25.jpg",
+        "image":"./images/25.jpeg",
         "link": ""
     },
     {
@@ -463,7 +463,7 @@ const data = [
         "keywords":[
            "murder","attempt to murder","section 307"
         ],
-        "image":"./images/26.jpg",
+        "image":"./images/26.jpeg",
         "link": ""
     },
     {
@@ -478,7 +478,7 @@ const data = [
         "keywords":[
            "murder","punishment for murder", "session 302"
         ],
-        "image":"./images/27.jpg",
+        "image":"./images/27.jpeg",
         "link": ""
     },
     {
@@ -492,7 +492,7 @@ const data = [
         "keywords":[
            "criminal trespass","section 441"
         ],
-        "image":"./images/28.jpg",
+        "image":"./images/28.jpeg",
         "link": ""
     },
     {
@@ -506,7 +506,7 @@ const data = [
         "keywords":[
            "criminal trespass","house trespass","session 442"
         ],
-        "image":"./images/29.jpg",
+        "image":"./images/29.jpeg",
         "link": ""
     },
     {
@@ -520,7 +520,7 @@ const data = [
         "keywords":[
            "criminal trespass","lurking house trespass","section 443"
         ],
-        "image":"./images/30.jpg",
+        "image":"./images/30.jpeg",
         "link": ""
     },
     {
@@ -534,7 +534,7 @@ const data = [
         "keywords":[
            "unlawful assembly","section 142"
         ],
-        "image":"./images/31.jpg",
+        "image":"./images/31.jpeg",
         "link": ""
     },
     {
@@ -548,7 +548,7 @@ const data = [
         "keywords":[
            "theft","section 378"
         ],
-        "image":"./images/32.jpg",
+        "image":"./images/32.jpeg",
         "link": ""
     },
     {
@@ -562,7 +562,7 @@ const data = [
         "keywords":[
            "theft","punishment for theft","section 379"
         ],
-        "image":"./images/33.jpg",
+        "image":"./images/33.jpeg",
         "link": ""
     },
     {
@@ -576,7 +576,7 @@ const data = [
         "keywords":[
            "religion","offence related to religion","section 295A"
         ],
-        "image":"./images/14.jpg",
+        "image":"./images/14.jpeg",
         "link": ""
     },
     {
@@ -590,7 +590,7 @@ const data = [
         "keywords":[
            "robbery","theft","extortion","section 390"
         ],
-        "image":"./images/15.jpg",
+        "image":"./images/15.jpeg",
         "link": ""
     },
     {
@@ -604,7 +604,7 @@ const data = [
         "keywords":[
            "robbery","section 392"
         ],
-        "image":"./images/16.jpg",
+        "image":"./images/16.jpeg",
         "link": ""
     },
     {
@@ -618,7 +618,7 @@ const data = [
         "keywords":[
            "criminal conspiracy", "punishment of criminal conspiracy","section 120b"
         ],
-        "image":"./images/17.jpg",
+        "image":"./images/17.jpeg",
         "link": ""
     },
     {
@@ -632,7 +632,7 @@ const data = [
         "keywords":[
            "offence again public justice","public justice"
         ],
-        "image":"./images/28.jpg",
+        "image":"./images/28.jpeg",
         "link": ""
     },
     {
@@ -646,7 +646,7 @@ const data = [
         "keywords":[
            "kidnapping","punishment for kidnapping","section 363"
         ],
-        "image":"./images/29.jpg",
+        "image":"./images/29.jpeg",
         "link": ""
     },
     {
@@ -660,7 +660,7 @@ const data = [
         "keywords":[
            "atmosphere","health","humans health","section 278"
         ],
-        "image":"./images/10.jpg",
+        "image":"./images/10.jpeg",
         "link": ""
     },
     {
@@ -674,7 +674,7 @@ const data = [
         "keywords":[
            "offence affecting public safety","Public Nuisance","noxious food or drink"
         ],
-        "image":"./images/11.jpg",
+        "image":"./images/11.jpeg",
         "link": ""
     },
     {
@@ -688,7 +688,7 @@ const data = [
         "keywords":[
            "offence affecting public safety","public safety","section 283"
         ],
-        "image":"./images/22.jpg",
+        "image":"./images/22.jpeg",
         "link": ""
     },
     {
@@ -702,7 +702,7 @@ const data = [
         "keywords":[
            "unlawful assembly"
         ],
-        "image":"./images/23.jpg",
+        "image":"./images/23.jpeg",
         "link": ""
     },
     {
@@ -716,7 +716,7 @@ const data = [
         "keywords":[
            "sexual offence","sexual harassment","physical contact","section 354a"
         ],
-        "image":"./images/4.jpg",
+        "image":"./images/4.jpeg",
         "link": ""
     },
     {
@@ -730,7 +730,7 @@ const data = [
         "keywords":[
            "unlawful assembly","section 141"
         ],
-        "image":"./images/4.jpg",
+        "image":"./images/4.jpeg",
         "link": ""
     },
     {
@@ -744,7 +744,7 @@ const data = [
         "keywords":[
            "kidnapping","types of kidnapping","section 359"
         ],
-        "image":"./images/1.jpg",
+        "image":"./images/1.jpeg",
         "link": ""
     },
     {
@@ -758,7 +758,7 @@ const data = [
         "keywords":[
            "kidnapping","kidnapp","kidnapped","punishment for kidnapping","section 363"
         ],
-        "image":"./images/1.jpg",
+        "image":"./images/1.jpeg",
         "link": ""
     },
     {
@@ -772,7 +772,7 @@ const data = [
         "keywords":[
            "criminal breach","criminal breach of trust","section 406"
         ],
-        "image":"./images/1.jpg",
+        "image":"./images/1.jpeg",
         "link": ""
     },
     {
@@ -786,7 +786,7 @@ const data = [
         "keywords":[
            "forgery","punishment for forgery","section 465"
         ],
-        "image":"./images/1.jpg",
+        "image":"./images/1.jpeg",
         "link": ""
     }
     
