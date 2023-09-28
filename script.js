@@ -110,7 +110,7 @@ const data = [
             "criminal conspiracy","section 120A"
             
         ],
-        ,
+        
         "link": "/pages/pg1.html",
         "image":"./images/1.jpg"
     },
