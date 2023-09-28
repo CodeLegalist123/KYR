@@ -110,7 +110,8 @@ const data = [
             "criminal conspiracy","section 120A"
             
         ],
-        "link": "",
+        ,
+        "link": "/pages/pg1.html",
         "image":"./images/1.jpg"
     },
     
@@ -126,7 +127,7 @@ const data = [
             "forgery","section 465","falsification"
         ],
         "image":"./images/2.jpeg",
-        "link": ""
+        "link": "/pages/pg2.html"
     },
     {
         "id": "3",
@@ -140,7 +141,7 @@ const data = [
             "forgery","section 463"
         ],
         "image":"./images/3.jpeg",
-        "link": ""
+        "link": "/pages/pg3.html"
     },
     {
         "id": "4",
@@ -154,7 +155,7 @@ const data = [
             "forgery","section 464"
         ],
         "image":"./images/4.jpeg",
-        "link": ""
+        "link": "/pages/pg4.html"
     },
     {
         "id": "5",
@@ -168,7 +169,7 @@ const data = [
             "offence","marriage offence"
         ],
         "image":"./images/5.jpeg",
-        "link": ""
+        "link": "/pages/pg5.html"
     },
     {
         "id": "6",
@@ -182,7 +183,7 @@ const data = [
             "marriage offence","section 494"
         ],
         "image":"./images/6.jpeg",
-        "link": ""
+        "link": "/pages/pg6.html"
     },
     {
         "id": "7",
@@ -196,7 +197,7 @@ const data = [
             "marriage offence","section 495"
         ],
         "image":"./images/7.jpeg",
-        "link": ""
+        "link": "/pages/pg7.html"
     },
     {
         "id": "8",
@@ -210,7 +211,7 @@ const data = [
             "marriage offence","section 496"
         ],
         "image":"./images/8.jpeg",
-        "link": ""
+        "link": "/pages/pg8.html"
     },
     {
         "id": "9",
@@ -224,7 +225,7 @@ const data = [
             "marriage offence","adultery","section 497"
         ],
         "image":"./images/9.jpeg",
-        "link": ""
+        "link": "/pages/pg9.html"
     },
     {
         "id": "10",
@@ -238,7 +239,7 @@ const data = [
             "marriage offence","section 498"
         ],
         "image":"./images/10.jpeg",
-        "link": ""
+        "link": "/pages/pg10.html"
     },
     {
         "id": "11",
@@ -252,7 +253,7 @@ const data = [
             "marriage offence","section 498a"
         ],
         "image":"./images/11.jpeg",
-        "link": ""
+        "link": "/pages/pg11.html"
     },
     {
         "id": "12",
@@ -266,7 +267,7 @@ const data = [
             "cheating","section 415"
         ],
         "image":"./images/12.jpeg",
-        "link": ""
+        "link": "/pages/pg12.html"
     },
     {
         "id": "13",
@@ -280,7 +281,7 @@ const data = [
             "cheating", "section 416"
         ],
         "image":"./images/13.jpeg",
-        "link": ""
+        "link": "/pages/pg13.html"
     },
     {
         "id": "14",
@@ -295,7 +296,7 @@ const data = [
         ]
         ,
         "image":"./images/14.jpeg",
-        "link": ""
+        "link": "/pages/pg14.html"
     },
     {
         "id": "15",
@@ -309,7 +310,7 @@ const data = [
             "cheating","section 418","cheating with knowledge"
         ],
         "image":"./images/15.jpeg",
-        "link": ""
+        "link": "/pages/pg15.html"
     },
     {
         "id": "16",
@@ -323,7 +324,7 @@ const data = [
             "cheating","punishment for cheating","section 419"
         ],
         "image":"./images/16.jpeg",
-        "link": ""
+        "link": "/pages/pg16.html"
     },
     {
         "id": "17",
@@ -338,7 +339,7 @@ const data = [
             "cheating","punishment for cheating","section 420"
         ],
         "image":"./images/17.jpeg",
-        "link": ""
+        "link": "/pages/pg17.html"
     },
     {
         "id": "18",
@@ -352,7 +353,7 @@ const data = [
             "criminal breach", "section 405"
         ],
         "image":"./images/18.jpeg",
-        "link": ""
+        "link": "/pages/pg18.html"
     },
     {
         "id": "19",
@@ -366,7 +367,7 @@ const data = [
             "rape","sexual offence","women sexual cases","women rape ipc","section 375"
         ],
         "image":"./images/19.jpeg",
-        "link": ""
+        "link": "/pages/pg19.html"
     },
     {
         "id": "20",
@@ -380,7 +381,7 @@ const data = [
             "rape","sexual offence","section 376"
         ],
         "image":"./images/20.jpeg",
-        "link": ""
+        "link": "/pages/pg20.html"
     },
     {
         "id": "21",
@@ -394,7 +395,7 @@ const data = [
             "rape","sexual offence","section 377"
         ],
         "image":"./images/21.jpeg",
-        "link": ""
+        "link": "/pages/pg21.html"
     },
     {
         "id": "22",
@@ -408,7 +409,7 @@ const data = [
            "criminal intimidation","section 503"
         ],
         "image":"./images/22.jpeg",
-        "link": ""
+        "link": "/pages/pg22.html"
     },
     {
         "id": "23",
@@ -422,7 +423,7 @@ const data = [
            "criminal intimidation","punishment for criminal intimidation","section 506"
         ],
         "image":"./images/23.jpeg",
-        "link": ""
+        "link": "/pages/pg23.html"
     },
     {
         "id": "24",
@@ -436,7 +437,7 @@ const data = [
            "criminal intimidation","section 507"
         ],
         "image":"./images/24.jpeg",
-        "link": ""
+        "link": "/pages/pg24.html"
     },
     {
         "id": "25",
@@ -450,7 +451,7 @@ const data = [
            "hurt","section 319"
         ],
         "image":"./images/25.jpeg",
-        "link": ""
+        "link": "/pages/pg25.html"
     },
     {
         "id": "26",
@@ -464,7 +465,7 @@ const data = [
            "murder","attempt to murder","section 307"
         ],
         "image":"./images/26.jpeg",
-        "link": ""
+        "link": "/pages/pg26.html"
     },
     {
         "id": "27",
@@ -479,7 +480,7 @@ const data = [
            "murder","punishment for murder", "session 302"
         ],
         "image":"./images/27.jpeg",
-        "link": ""
+        "link": "/pages/pg27.html"
     },
     {
         "id": "28",
@@ -493,7 +494,7 @@ const data = [
            "criminal trespass","section 441"
         ],
         "image":"./images/28.jpeg",
-        "link": ""
+        "link": "/pages/pg28.html"
     },
     {
         "id": "29",
@@ -507,7 +508,7 @@ const data = [
            "criminal trespass","house trespass","session 442"
         ],
         "image":"./images/29.jpeg",
-        "link": ""
+        "link": "/pages/pg29.html"
     },
     {
         "id": "30",
@@ -521,7 +522,7 @@ const data = [
            "criminal trespass","lurking house trespass","section 443"
         ],
         "image":"./images/30.jpeg",
-        "link": ""
+        "link": "/pages/pg30.html"
     },
     {
         "id": "31",
@@ -535,7 +536,7 @@ const data = [
            "unlawful assembly","section 142"
         ],
         "image":"./images/31.jpeg",
-        "link": ""
+        "link": "/pages/pg31.html"
     },
     {
         "id": "32",
@@ -549,7 +550,7 @@ const data = [
            "theft","section 378"
         ],
         "image":"./images/32.jpeg",
-        "link": ""
+        "link": "/pages/pg32.html"
     },
     {
         "id": "33",
@@ -563,7 +564,7 @@ const data = [
            "theft","punishment for theft","section 379"
         ],
         "image":"./images/33.jpeg",
-        "link": ""
+        "link": "/pages/pg33.html"
     },
     {
         "id": "34",
@@ -577,7 +578,7 @@ const data = [
            "religion","offence related to religion","section 295A"
         ],
         "image":"./images/14.jpeg",
-        "link": ""
+        "link": "/pages/pg34.html"
     },
     {
         "id": "35",
@@ -591,7 +592,7 @@ const data = [
            "robbery","theft","extortion","section 390"
         ],
         "image":"./images/15.jpeg",
-        "link": ""
+        "link": "/pages/pg35.html"
     },
     {
         "id": "36",
@@ -604,7 +605,7 @@ const data = [
         "keywords":[
            "robbery","section 392"
         ],
-        "image":"./images/16.jpeg",
+        "image":"./images/36.jpeg",
         "link": ""
     },
     {
@@ -619,7 +620,7 @@ const data = [
            "criminal conspiracy", "punishment of criminal conspiracy","section 120b"
         ],
         "image":"./images/17.jpeg",
-        "link": ""
+        "link": "/pages/pg37.html"
     },
     {
         "id": "38",
@@ -633,7 +634,7 @@ const data = [
            "offence again public justice","public justice"
         ],
         "image":"./images/28.jpeg",
-        "link": ""
+        "link": "/pages/pg38.html"
     },
     {
         "id": "39",
@@ -647,7 +648,7 @@ const data = [
            "kidnapping","punishment for kidnapping","section 363"
         ],
         "image":"./images/29.jpeg",
-        "link": ""
+        "link": "/pages/pg39.html"
     },
     {
         "id": "40",
@@ -661,7 +662,7 @@ const data = [
            "atmosphere","health","humans health","section 278"
         ],
         "image":"./images/10.jpeg",
-        "link": ""
+        "link": "/pages/pg40.html"
     },
     {
         "id": "41",
@@ -675,7 +676,7 @@ const data = [
            "offence affecting public safety","Public Nuisance","noxious food or drink"
         ],
         "image":"./images/11.jpeg",
-        "link": ""
+        "link": "/pages/pg41.html"
     },
     {
         "id": "42",
@@ -689,7 +690,7 @@ const data = [
            "offence affecting public safety","public safety","section 283"
         ],
         "image":"./images/22.jpeg",
-        "link": ""
+        "link": "/pages/pg42.html"
     },
     {
         "id": "43",
@@ -703,7 +704,7 @@ const data = [
            "unlawful assembly"
         ],
         "image":"./images/23.jpeg",
-        "link": ""
+        "link": "/pages/pg43.html"
     },
     {
         "id": "44",
@@ -717,7 +718,7 @@ const data = [
            "sexual offence","sexual harassment","physical contact","section 354a"
         ],
         "image":"./images/4.jpeg",
-        "link": ""
+        "link": "/pages/pg44.html"
     },
     {
         "id": "45",
@@ -731,7 +732,7 @@ const data = [
            "unlawful assembly","section 141"
         ],
         "image":"./images/4.jpeg",
-        "link": ""
+        "link": "/pages/pg45.html"
     },
     {
         "id": "46",
@@ -745,7 +746,7 @@ const data = [
            "kidnapping","types of kidnapping","section 359"
         ],
         "image":"./images/1.jpeg",
-        "link": ""
+        "link": "/pages/pg46.html"
     },
     {
         "id": "47",
@@ -759,7 +760,7 @@ const data = [
            "kidnapping","kidnapp","kidnapped","punishment for kidnapping","section 363"
         ],
         "image":"./images/1.jpeg",
-        "link": ""
+        "link": "/pages/pg47.html"
     },
     {
         "id": "48",
@@ -773,7 +774,7 @@ const data = [
            "criminal breach","criminal breach of trust","section 406"
         ],
         "image":"./images/1.jpeg",
-        "link": ""
+        "link": "/pages/pg48.html"
     },
     {
         "id": "49",
@@ -787,7 +788,7 @@ const data = [
            "forgery","punishment for forgery","section 465"
         ],
         "image":"./images/1.jpeg",
-        "link": ""
+        "link": "/pages/pg49.html"
     }
     
 
