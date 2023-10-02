@@ -5,9 +5,10 @@ const cardContainer = document.getElementById("cardContainer");
 
 let currentQuestion = 0;
 const questions = [
-    "1-regarding what you are facing issues",
-    "2-what type of solution you are looking for",
-    "3-its related to which department like health, finance, and all"
+    "1- What issues You Are Facing ?",
+    "2- what type of solution you are looking for",
+    "3- Which Department Is it Releated To ? ",
+    "4- Is There Any Additional Information You Would Like to Share About Your Legal Issue?"
 ];
 let userResponses = [];
 let searchTheseKeys = new Set();
